@@ -115,12 +115,7 @@ The clustering model divides individuals into:
 
 ## System Architecture
 
-See architecture diagram:
-
-```
-architecture/
-Health_Risk_System_Architecture.png
-```
+![Architecture](architecture/system_architecture.png)
 
 ---
 
