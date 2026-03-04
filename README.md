@@ -152,6 +152,19 @@ http://127.0.0.1:5000
 
 ---
 
+## Application Preview
+
+### Input Form
+![Input](Screenshots/input_page.png)
+
+### Prediction Result
+![Prediction](Screenshots/prediction_result.png)
+
+### Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+---
+
 ## Project Structure
 
 ```
